@@ -1,0 +1,28 @@
+{
+  "name": "llamaserver",
+  "version": "1.0.0",
+  "description": "![](https://cdn-images-1.medium.com/max/1600/1*jMgxgS6AVUP2XgIgbpSLqw.png)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "llamaindex": "^0.2.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlessingAjiboye/RAG-LlamaIndexNew6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BlessingAjiboye/RAG-LlamaIndexNew6/issues"
+  },
+  "homepage": "https://github.com/BlessingAjiboye/RAG-LlamaIndexNew6#readme"
+}
